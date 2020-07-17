@@ -1,0 +1,10 @@
+C:\Users\Jessica\Desktop\Projects\SQLEditor\SQLEditor\bin\Debug\SQLEditor.exe.config
+C:\Users\Jessica\Desktop\Projects\SQLEditor\SQLEditor\bin\Debug\SQLEditor.exe
+C:\Users\Jessica\Desktop\Projects\SQLEditor\SQLEditor\bin\Debug\SQLEditor.pdb
+C:\Users\Jessica\Desktop\Projects\SQLEditor\SQLEditor\obj\Debug\SQLEditor.csprojAssemblyReference.cache
+C:\Users\Jessica\Desktop\Projects\SQLEditor\SQLEditor\obj\Debug\SQLEditor.Form1.resources
+C:\Users\Jessica\Desktop\Projects\SQLEditor\SQLEditor\obj\Debug\SQLEditor.Properties.Resources.resources
+C:\Users\Jessica\Desktop\Projects\SQLEditor\SQLEditor\obj\Debug\SQLEditor.csproj.GenerateResource.cache
+C:\Users\Jessica\Desktop\Projects\SQLEditor\SQLEditor\obj\Debug\SQLEditor.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\Desktop\Projects\SQLEditor\SQLEditor\obj\Debug\SQLEditor.exe
+C:\Users\Jessica\Desktop\Projects\SQLEditor\SQLEditor\obj\Debug\SQLEditor.pdb
